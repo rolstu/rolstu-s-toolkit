@@ -73,7 +73,7 @@ Why would you want to contribute to this? But if you really feel the urge to pus
 
 ## License
 
-This project is licensed under the MIT License. That means you can do whatever you want with it. Like literally, I don't care.
+This project is licensed under the... What license?? Move on man
 
 ---
 
